@@ -1,0 +1,1 @@
+(()=>{"use strict";document.write("哈啊啊啊啊啊啊啊啊啊")})();
